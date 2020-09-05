@@ -1,4 +1,4 @@
-# winsows
+# Windows
 
 1. 下载并安装 [Clash](https://github.com/Beim/fanqiang/blob/master/windows/Clash-windows-setup.exe)
 2. 配置
